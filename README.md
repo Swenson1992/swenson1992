@@ -34,7 +34,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Swenson1992/swenson1992">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjian925&hide=php,CoffeeScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swenson1992&hide=php,CoffeeScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Swenson1992/swenson1992">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swenson1992&show_icons=true&line_height=25&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Swenson1992's GitHub Stats" />
