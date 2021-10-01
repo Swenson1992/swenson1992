@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.   
-✉️ &nbsp;You can shoot me an email at it.song925@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at it.song925@gmail.com! I'll try to respond as soon as I can.
 
 ## 🔧 Technologies & Tools
 ![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=yellow&color=2bbc8a)
